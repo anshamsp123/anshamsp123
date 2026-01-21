@@ -25,16 +25,16 @@ Applied Research & Real-World AI Systems
 ### Machine Learning & Computer Vision:
 TensorFlow, OpenCV, YOLO, FaceNet, MobileNet
 
-### Data Science & Visualization
+### Data Science & Visualization:
 NumPy, Pandas, Matplotlib
 
-### Frameworks & Platforms
+### Frameworks & Platforms:
 Streamlit, MongoDB, Android
 
-### Mapping & Navigation
+### Mapping & Navigation:
 Leaflet, OSMDroid
 
-### Developer Tools
+### Developer Tools:
 Git, GitHub, Jupyter
 
 ---
