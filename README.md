@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ansh Sharma
+# Hello, I'm Ansh Sharma
 
 🎓 B.Tech CSE (AI & ML) @ VIT Pune  
 AI/ML Engineer | Computer Vision | Android | Research-Oriented Developer  
