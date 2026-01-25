@@ -3,16 +3,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshsharma213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ansh.sharma23@vit.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <br>
+  <a href="mailto:ansh[dot]sharma23[at]vit[dot]edu">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Areas of Interest
+##  🎓 Areas of Interest
 Machine Learning & Deep Learning  
 Computer Vision & Video Analytics  
 On-Device AI & Android ML  
@@ -22,80 +23,47 @@ Applied Research & Real-World AI Systems
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🤖 Machine Learning & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-**Models & Techniques:**  
-`YOLO` • `FaceNet` • `MobileNet` • `CNNs` • `Transfer Learning`
-
----
-
-### 📊 Data Science & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`NumPy` • `Pandas` • `Matplotlib`
+### Machine Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+![FaceNet](https://img.shields.io/badge/FaceNet-6A1B9A?style=for-the-badge)
+![MobileNet](https://img.shields.io/badge/MobileNet-0097A7?style=for-the-badge)
 
 ---
 
-### 🌐 Frameworks & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=streamlit,mongodb,androidstudio" />
-</p>
-
-### 🗺️ Mapping & Navigation
-<p>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSMDroid-0052CC?style=for-the-badge"/>
-</p>
+### Data Science & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-### 🧰 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
-</p>
+### Frameworks & Platforms
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
+### Mapping & Navigation
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![OSMdroid](https://img.shields.io/badge/OSMdroid-0052CC?style=for-the-badge)
 
 ---
 
-##  Featured Projects
-
-### 🔹 LipReadNet – Streamlit-Based Lip Reading System
-Built a deep learning system for **lip reading from video sequences**
-Designed a **preprocessing pipeline** for lip-region extraction and enhancement
-Achieved **85.6% accuracy on the GRID dataset**
-Deployed the model using **Streamlit** for interactive inference  
-
-**Tech:** Python, TensorFlow, OpenCV, Streamlit, Matplotlib  
-📄 *Published at CVCNCE 2025*
-
-
-### 🔹 Smart Glasses for Visually Impaired – On-Device Vision System
-Developed an **Android-based smart glass application** for real-time assistance
-Implemented **face recognition, object detection, OCR, and navigation**
-Used **FaceNet and MobileNetV2-SSD** with **on-device inference**
-Integrated **offline mapping** for navigation support  
-
-**Tech:** Android, TensorFlow Lite, FaceNet, MobileNetV2-SSD, Google ML Kit, OSMDroid  
-📄 *Published at ICCCSS 2025*
-
-
-### 🔹 Pothole Detection via Drone & Live Mapping System
-Trained a **YOLO-based model** for pothole detection from drone and live video feeds
-Built a **real-time web mapping system** using Leaflet API
-Enabled **interactive visualization of detected potholes** for smart city use cases  
-
-**Tech:** YOLO, Python, OpenCV, JavaScript, HTML/CSS, Leaflet API
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -105,7 +73,7 @@ Enabled **interactive visualization of detected potholes** for smart city use ca
 
 ---
 
-## 🎓 Experience & Leadership
+## 📫  Experience & Leadership
 - **Chairperson – Computer Society of India, VIT Pune**
   Led a 220-member technical chapter
   Organized large-scale hackathons, speaker sessions & flagship events (10,000+ participants)
@@ -114,10 +82,5 @@ Enabled **interactive visualization of detected potholes** for smart city use ca
   Worked on industry-facing web solutions
   Designed UI components and improved UX workflows
 
----
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/anshsharma213  
-- 📧 Email: ansh.sharma23@vit.edu  
-
-> *Building intelligent systems that solve real-world problems using AI.* 🚀
+> *Building intelligent systems that solve real-world problems using AI & ML.* 🚀
