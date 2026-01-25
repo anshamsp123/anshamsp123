@@ -1,7 +1,14 @@
-# Hello, I'm Ansh Sharma
+<h1 align="center">Hello, I'm Ansh Sharma</h1>
+<h3 align="center">AI | Machine Learning | Computer Vision | Software Development</h3>
 
-🎓 B.Tech CSE (AI & ML) @ VIT Pune  
-AI/ML Engineer | Computer Vision | Android | Research-Oriented Developer  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshsharma213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ansh.sharma23@vit.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
@@ -15,27 +22,49 @@ Applied Research & Real-World AI Systems
 
 ## 🛠️ Tech Stack
 
-### Programming Languages:
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=mysql)
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+</p>
 
+---
 
-### Machine Learning & Computer Vision:
-TensorFlow, OpenCV, YOLO, FaceNet, MobileNet
+### 🤖 Machine Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 
-### Data Science & Visualization:
-NumPy, Pandas, Matplotlib
+**Models & Techniques:**  
+`YOLO` • `FaceNet` • `MobileNet` • `CNNs` • `Transfer Learning`
 
-### Frameworks & Platforms:
-Streamlit, MongoDB, Android
+---
 
-### Mapping & Navigation:
-Leaflet, OSMDroid
+### 📊 Data Science & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Developer Tools:
-Git, GitHub, Jupyter
+`NumPy` • `Pandas` • `Matplotlib`
+
+---
+
+### 🌐 Frameworks & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit,mongodb,androidstudio" />
+</p>
+
+### 🗺️ Mapping & Navigation
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSMDroid-0052CC?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧰 Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
+</p>
 
 ---
 
